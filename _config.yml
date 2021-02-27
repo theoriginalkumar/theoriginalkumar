@@ -13,6 +13,7 @@
 
 url    : "https://rarespecgarage.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
+remote_theme: raviriley/agency-jekyll-theme
 
 title      : Rare Spec Garage
 email      : me@rarespecgarage.com #this is also the email contact forms will go to
